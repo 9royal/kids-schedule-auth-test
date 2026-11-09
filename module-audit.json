@@ -1,0 +1,20 @@
+{
+  "moduleCount": 15,
+  "modules": [
+    "preload-helper.js",
+    "core.mjs",
+    "style.css",
+    "main.ts",
+    "index.html",
+    "node_modules/.pnpm/firebase@10.14.1/node_modules/firebase/app/dist/esm/index.esm.js",
+    "node_modules/.pnpm/tslib@2.8.1/node_modules/tslib/tslib.es6.mjs",
+    "node_modules/.pnpm/@firebase+auth@1.7.9_@firebase+app@0.10.13/node_modules/@firebase/auth/dist/esm2017/index-68602d24.js",
+    "node_modules/.pnpm/firebase@10.14.1/node_modules/firebase/auth/dist/esm/index.esm.js",
+    "node_modules/.pnpm/@firebase+util@1.10.0/node_modules/@firebase/util/dist/index.esm2017.js",
+    "node_modules/.pnpm/@firebase+component@0.6.9/node_modules/@firebase/component/dist/esm/index.esm2017.js",
+    "node_modules/.pnpm/@firebase+logger@0.4.2/node_modules/@firebase/logger/dist/esm/index.esm2017.js",
+    "node_modules/.pnpm/idb@7.1.1/node_modules/idb/build/wrap-idb-value.js",
+    "node_modules/.pnpm/idb@7.1.1/node_modules/idb/build/index.js",
+    "node_modules/.pnpm/@firebase+app@0.10.13/node_modules/@firebase/app/dist/esm/index.esm2017.js"
+  ]
+}

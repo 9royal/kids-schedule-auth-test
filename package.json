@@ -1,0 +1,1 @@
+{"name":"kids-schedule-auth-test","version":"0.0.0","private":true,"type":"module","scripts":{"test":"node --test auth-only/test.mjs auth-only/boundary.test.mjs","typecheck":"tsc --project auth-only/tsconfig.json","build":"vite build --config auth-only/vite.config.mjs"},"dependencies":{"firebase":"10.14.1"},"devDependencies":{"vite":"5.4.21","typescript":"5.9.3"}}
